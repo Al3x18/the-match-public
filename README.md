@@ -14,7 +14,7 @@ The app allows you to:
 - View details stats of the match with goalscorers.
 - Choose between light and dark theme.
 
-- __Coming soon__ F1 race results and standings.
+- F1 race results and standings.
 
 For the data the app uses the [api-football](https://www.api-football.com/) API.
 
